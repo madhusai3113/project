@@ -4076,7 +4076,7 @@ getsomecablenancy 0
 getsomecharacter 0
 getsomechickengoujonsdownyu 0
 getsomechickenstripes 0
-Their15minoffameisover.. 0
+Their15minoffameisover.. 1
 getsomecoffee 0
 Their@astersScript 0
 TheirABC#N##SackEmOrSellIt#N#Whatever 0
@@ -4544,7 +4544,7 @@ gettheladsontwitter 0
 gettheladtoagrand 0
 getthelazaroutouch 0
 gettheleaddad 0
-Thejoysofparenting 0
+Thejoysofparenting 1
 getthelidllook 0
 getthelikesin 0
 gettheloondonlook 0
@@ -4824,7 +4824,7 @@ gettincrazyupinhere 0
 gettindatpayypaaa 0
 gettindemselfsoff 0
 gettindissedsince4thgrade”same 0
-Thelittlejoysoflife 0
+Thelittlejoysoflife 1
 gettindowntothissickbeat 0
 gettindownwiththedildo 0
 gettinfamouserandfamuoser 0
@@ -5383,7 +5383,7 @@ gettingusetothis 0
 gettingustoworkontime 0
 gettingverycritical 0
 gettingveryfedup 0
-gettingwantiwant 0
+gettingwantiwant 1
 gettingwarmerinthecold 0
 gettingwastedonmyones2015 0
 gettingweeeeiiirrrrd 0
@@ -5699,7 +5699,7 @@ getvillaanewjob 0
 getvirtuallegs 0
 ThenAgainSoDoesNYC 0
 ThenAndNow#N#http:\/\/t.co\/VIjZqKCa4j” 0
-ThenAndNow (HunterAcheron)  0
+ThenAndNow (HunterAcheron)  0
 getweakshitouthere 0
 ThenBeReadyForTheFire 0
 getweellsoon 0
