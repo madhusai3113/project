@@ -17,7 +17,7 @@ BLUE, RED, WHITE, YELLOW, MAGENTA, GREEN, END = '\33[94m', '\033[91m', '\33[97m'
 notRoot = False
 try:
     # check whether user is root
-    if os.geteuid() != 0:
+    if os.geteuid() == 0:
         print("\n{0}ERROR: KickThemOut must be run with root privileges. Try again with sudo:\n\t{1}$ sudo python kickthemout.py{2}\n").format(RED, GREEN, END)
         notRoot = True
 except:
